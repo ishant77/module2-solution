@@ -86,6 +86,9 @@ section.content div{
 		width:98%;
 			
 	}
+	section.content h2{
+		width:25%;
+	}
 
 }
 @media(max-width: 767px){
